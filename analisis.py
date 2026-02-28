@@ -5,7 +5,7 @@
 import pandas as pd
 
 # BLOQUE 1: Carga de datos
-# RGA - Leemos el archivo 'datos.csv' generado por la Colaboradora A (Odette))
+# Leemos el archivo 'datos.csv' generado por la Colaboradora (o lA (Odette)
 # para integrarlo en nuestro flujo de trabajo.
 # Fecha: 27/02/2026
 df = pd.read_csv('datos.csv')
