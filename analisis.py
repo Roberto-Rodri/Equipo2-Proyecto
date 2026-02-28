@@ -29,5 +29,5 @@ print(f"El promedio del monto gastado mensualmente en la tienda de abarrotes es:
 # RGA - Mensaje de confirmación de que el script de Ricardo G se ejecutó
 # sin conflictos técnicos antes del push final.
 # Fecha: 27/02/2026
-print("\nAnálisis finalizado por Ricardo GA.")
+print("\nAnálisis finalizado5555 por Ricardo GA.")
 
