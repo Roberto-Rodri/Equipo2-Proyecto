@@ -1,3 +1,4 @@
+
 # Creado por: RGA (Ricardo Garcia Alvarez)
 # Fecha: 27/02/2026
 # Proyecto: Equipo 2 - Análisis de Datos Colaborativo
@@ -29,3 +30,4 @@ print(f"El promedio del monto gastado mensualmente en la tienda de abarrotes es:
 # sin conflictos técnicos antes del push final.
 # Fecha: 27/02/2026
 print("\nAnálisis finalizado con éxito por Ricardo GA.")
+
