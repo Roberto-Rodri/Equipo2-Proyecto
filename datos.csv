@@ -1,4 +1,4 @@
--- Datos de control mensual en una tienda de abarrotes
+-- Evelin Odette AG, 27_02_26, En este archivo se crearon datos ficticios sobre el control mnensual de gastios de una tienda de abarrotes.
 ID,Fecha,Categoria,Descripcion,Monto
 1,2026-03-01,Renta,Pago local local comercial,1200.00
 2,2026-03-05,Servicios,Recibo de luz y agua,150.50
